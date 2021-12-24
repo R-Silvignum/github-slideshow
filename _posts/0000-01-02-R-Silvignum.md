@@ -1,13 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
----
-
-Use the right arrow to begin!
-
----
-layout: slide
 title: "２枚目のスライドにようこそ！"
 ---
 何かを書く。
+@追加
 戻るには戻るボタンを使いましょう！
